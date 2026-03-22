@@ -1,1 +1,1 @@
-To facilitate the cleaning of this dataset I first inspected it and i recognised that there were missing values and some issues with text formatting, so was able to write the code needed to organise the information for it to be utilised.
+My Cynat Project
